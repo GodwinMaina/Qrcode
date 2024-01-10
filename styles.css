@@ -1,0 +1,46 @@
+
+
+body{
+
+    font-size: 11px; 
+    text-align: center;
+    background-color:hsl(212, 45%, 89%) ;
+  
+    
+    
+}
+
+img{
+    /* padding:2rem; */
+    margin: 1rem;
+    width: 90%;
+    border-radius: 1rem;
+    
+}
+
+.imgdiv{
+    background-color:  hsl(0, 0%, 100%);
+    border-radius: 2rem;
+    margin-left: 33rem;
+    margin-top: 4rem;
+    margin-right: 30rem;
+    margin-bottom:4rem;
+    height: 460px;
+    width: 300px;
+
+}
+
+.p1{
+  
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.p2{
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+    margin: 1rem;
+}
